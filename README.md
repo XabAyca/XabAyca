@@ -2,7 +2,6 @@
 <img align="center" alt="Visual Studio Code" src="https://drive.google.com/uc?id=1v0RcKkSd8zxEcuCKiXn9g32Wa1at1BSA" />
 
 # Hi there, I'm Xabi 👋
----
 
 - 🔭 I’m currently working on develop my skills. 
 - 🌱 I’m currently learning everything ...   
