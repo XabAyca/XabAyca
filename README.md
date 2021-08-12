@@ -22,7 +22,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Ruby" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ARuby_logo.svg&psig=AOvVaw2F6W1I7zEriPXLRcIBneiI&ust=1628836935653000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOia-cnwqvICFQAAAAAdAAAAABAD" />
+<img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 <img align="left" alt="RoR" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARuby_on_Rails-logo.png&psig=AOvVaw2o9SA95gYyPQ5m-4Uk2lIc&ust=1628836969452000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDR4NrwqvICFQAAAAAdAAAAABAD" />
 <img align="left" alt="postgresql" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARuby_on_Rails-logo.png&psig=AOvVaw2o9SA95gYyPQ5m-4Uk2lIc&ust=1628836969452000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDR4NrwqvICFQAAAAAdAAAAABAD" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -31,9 +31,6 @@
 
 
 ---
-
- <img align="left" alt="XabAyca's GitHub Stats" src="https://github-readme-stats.XabAyca.vercel.app/api?username=XabAyca&show_icons=true&hide_border=true" />
-
 
 
 [instagram]: https://www.instagram.com/xabitabi/
