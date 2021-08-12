@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on develop my skills. 
 - 🌱 I’m currently learning everything ...   
 - 👯 I’m looking to collaborate with other developers on many projects
-- 💬 Ask me about all suject, let's talk ! 
+- 💬 Ask me about all subject, let's talk ! 
 
 
 ### Connect with me:
