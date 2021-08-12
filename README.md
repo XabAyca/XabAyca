@@ -27,7 +27,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 <img align="left" alt="RoR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" />
-<img align="left" alt="postgresql" width="36px" src="https://camo.githubusercontent.com/c2b5df85d62eededa87a5dbb4f89e3ab44a61ae0dd55b9eb6dd7e785a8c20458/68747470733a2f2f7777772e656e746572707269736564622e636f6d2f73697465732f64656661756c742f66696c65732f6c6f676f2d706f737467726573716c2d373030783530302e706e67" />
+<img align="left" alt="postgresql" heigth="26px" src="https://camo.githubusercontent.com/c2b5df85d62eededa87a5dbb4f89e3ab44a61ae0dd55b9eb6dd7e785a8c20458/68747470733a2f2f7777772e656e746572707269736564622e636f6d2f73697465732f64656661756c742f66696c65732f6c6f676f2d706f737467726573716c2d373030783530302e706e67" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
