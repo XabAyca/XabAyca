@@ -32,12 +32,9 @@
 
 ---
 
-<details>
+<summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="XabAyca's GitHub Stats" src="https://github-readme-stats.XabAyca.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.XabAyca.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [instagram]: https://www.instagram.com/xabitabi/
