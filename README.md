@@ -1,3 +1,5 @@
+<img align="center" alt="background" src="https://drive.google.com/uc?export=view&id=1WblKjUBpuIh-yjgZfTjafoTgUTgnM0wt"/>
+
 # Hi there, I'm Xabi 👋
 
 - 🔭 I’m currently working on develop my skills. 
@@ -8,6 +10,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="XabAyca | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="XabAyca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="XabAyca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -30,7 +33,7 @@
 <br/>
 
 
-
+[portfolio]: https://xabayca.github.io/my_portfolio/
 [instagram]: https://www.instagram.com/xabitabi/
 [linkedin]: https://www.linkedin.com/in/xabi-aycaguer/
 
