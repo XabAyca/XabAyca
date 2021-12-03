@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other developers on many projects
 - 💬 Ask me about all subject, let's talk ! 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=XabAyca&hide=stars&show_icons=true&theme=blueberry" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XabAyca&hide=stars&show_icons=true&theme=gruvbox_light" />  
 
 ### Connect with me:
 
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XabAyca&layout=compact&theme=blueberry" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XabAyca&layout=compact&theme=gruvbox_light" /> 
 
 ### Frameworks & librairies:
   
