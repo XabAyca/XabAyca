@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="XabAyca | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="XabAyca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[https://img.shields.io/badge/-Xabi-C2C2C2??style=flat-square&logo=linkedin&label=Linkedin&labelColor=blue][linkedin]
 [<img align="left" alt="XabAyca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
