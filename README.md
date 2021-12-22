@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 
 ### Others:
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/ITerm_2-000000?style=flat-square&logo=iterm2&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/ITerm_2-000000?style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white">
 
 [portfolio]: https://xabayca.github.io/my_portfolio/
 [instagram]: https://www.instagram.com/xabitabi/
