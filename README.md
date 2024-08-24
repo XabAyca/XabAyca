@@ -1,15 +1,9 @@
-<img align="center" alt="background" src="https://drive.google.com/uc?export=view&id=1WblKjUBpuIh-yjgZfTjafoTgUTgnM0wt"/>
+<img align="center" alt="background" src="https://drive.google.com/uc?export=view&id=1CMT5zanurPl765fASqkuBHVB6pbZ1Wpk"/>
 
-# Hi there, I'm Xabi 👋
-
-- 🔭 I’m currently working on develop my skills. 
-- 🌱 I’m currently learning everything ...   
-- 👯 I’m looking to collaborate with other developers on many projects
-- 💬 Ask me about all subject, let's talk ! 
+# Hi there, I'm Xabi 👋 
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/-Portfolio-7D4698?style=for-the-badge&logo=TorBrowser" />][portfolio]
 [<img src="https://img.shields.io/badge/-Xabi-C2C2C2?style=for-the-badge&logo=linkedin&label=Linkedin&labelColor=blue">][linkedin]
 
 ### Languages:
@@ -32,7 +26,6 @@
 
 <img alt="codewars" src="https://www.codewars.com/users/XabiAyca/badges/large"/>
 
-[portfolio]: https://xabayca.github.io/my_portfolio/
 [instagram]: https://www.instagram.com/xabitabi/
 [linkedin]: https://www.linkedin.com/in/xabi-aycaguer/
 
