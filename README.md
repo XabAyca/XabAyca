@@ -1,6 +1,6 @@
 # Hi there, I'm Xabi 👋
 
-### Engineering Manager & Software Architect
+### Engineering Manager & Software Architect @ Mipise
 
 🏗️ I design robust architectures and grow engineering teams.
 💼 Fintech · Cloud · Sustainable software
@@ -35,9 +35,30 @@
 
 ---
 
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/XabAyca?label=Followers&style=for-the-badge&color=blueviolet&logo=github" />
+  <img src="https://img.shields.io/github/stars/XabAyca?label=Stars&style=for-the-badge&color=yellow&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=XabAyca&label=Profile%20views&color=brightgreen&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XabAyca&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XabAyca&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
 ### 🌍 Languages
 
-🇫🇷 French · 🏴󠁥󠁳󠁰󠁶󠁿 Basque (bilingual) · 🇬🇧 English (professional) · 🇪🇸 Spanish (working knowledge)
+- 🇫🇷 **French** — native
+- **Basque** — native / bilingual
+- 🇬🇧 **English** — professional working
+- 🇪🇸 **Spanish** — working knowledge
 
 ---
 
